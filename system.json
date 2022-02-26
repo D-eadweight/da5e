@@ -104,6 +104,6 @@
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "9",
   "url": "https://github.com/D-eadweight/da5e",
-  "manifest": "https://gitlab.com/api/v4/projects/foundrynet%2Fdnd5e/packages/generic/dnd5e/latest/system.json",
+  "manifest": "https://raw.githubusercontent.com/D-eadweight/da5e/master/system.json?token=GHSAT0AAAAAABR6NLPQCP35JZCBLVOSN4NEYQ2T3ZA",
   "download": "https://github.com/D-eadweight/da5e/archive/refs/heads/master.zip"
 }
